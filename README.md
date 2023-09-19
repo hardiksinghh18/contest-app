@@ -1,0 +1,1 @@
+# A contest app made with html , css and javascript which displays the list of coding contests
